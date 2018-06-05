@@ -9,7 +9,7 @@ The report includes the rationale, mathematical deduction and description of the
 ## Versions
 Each of the four versions focus in different aspects of the lottery (eg. security, performance or gas fairness).
 
-* **lottery1.sol -** Standard lottery version.
-* **lottery2.sol -** Security optimizations.
-* **lottery3.sol -** Gas fairness optimization for the lottery participants.
+* **lottery1.sol -** Standard lottery version with security optimizations.
+* **lottery2.sol -** Gas optimizations.
+* **lottery3.sol -** Gas fairness optimization for the lottery participants (not the deployer/owner of the contract).
 * **lottery4.sol -** Gas fairness optimization with lottery owner incentives.
