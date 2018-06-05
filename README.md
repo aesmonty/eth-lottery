@@ -7,4 +7,4 @@ This project consists on the development of fair lottery frameworks in Ethereum.
 The report includes the rationale, mathematical deduction and descritpion of the variants on the lottery desig.
 
 ## Version
-Each of the four versions focuse in different aspects of the lottery (eg. security, performance or gas fairness).
+Each of the four versions focus in different aspects of the lottery (eg. security, performance or gas fairness).
